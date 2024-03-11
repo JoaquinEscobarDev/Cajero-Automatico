@@ -1,7 +1,6 @@
 
 # Cajero Automatico
-![imagen](https://github.com/JoaquinEscobarDev/Cajero-Automatico/assets/152922219/afbb86ef-0a28-44ff-a78e-250daeb37ed9)
-
+![imagen](https://github.com/JoaquinEscobarDev/Cajero-Automatico/assets/152922219/6c3fb01c-d836-40c8-8b95-0509e6fcd144)
 - (Los datos que aparecen en la imagen son hardcodeados para facilitar la prueba del código.)
 
 - Este proyecto Java simula una cuenta corriente bancaria con funcionalidades básicas de abono y retiro, registrando los movimientos en un array. Incluye las clases CuentaCorriente y Movimiento.
